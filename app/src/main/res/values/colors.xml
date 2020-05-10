@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black">#0F0F0F</color>
+    <color name="white">#F3EFEF</color>
+    <color name="draculaOrchid">#2d3436</color>
+    <color name="wetAsphalt">#34495e</color>
+    <color name="concreate">#4E4646</color>
+    <color name="greenFlat">#3fc380</color>
+    <color name="oldBrick">#BE2E1E</color>
+</resources>
